@@ -1,3 +1,18 @@
+# Packet Loss Detection and Recovery over Software-Defined Networks
+**Computer Networks Laboratory (UE23CS252) — Mini-Project #7 (Team 5)**
+
+---
+
+## 👥 Team Members & Project Contributors
+
+| Student Name | SRN | Primary Subsystem Ownership |
+| :--- | :--- | :--- |
+| **Arvind Namaji** | PES1UG25CS102 | Transport Layer Protocol (Sockets & Framing) |
+| **Anirudh S** | PES1UG25CS069 | SDN Control Plane & Flow Failover Engine |
+| **Bapathi Venkata Sri Abhivaran Reddy** | PES1UG25CS122 | Mininet Topology & Benchmarking Evaluation |
+
+---
+
 # SDN-Integrated Reliable Data Transfer (Stop-and-Wait ARQ over UDP)
 
 ## 📌 Overview
